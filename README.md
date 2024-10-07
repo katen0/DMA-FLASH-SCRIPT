@@ -1,0 +1,2 @@
+# DMA-FLASH-SCRIPT
+support all ch347/rs232 FPGA DMA
